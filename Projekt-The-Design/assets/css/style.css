@@ -19,6 +19,17 @@ html{
     font-family: "Roboto";
 }
 
+.benjamin{
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    overflow: hidden;
+    position: fixed;
+    left: 50px;
+    top: 40px;
+    
+}
+
 .home{
     background-image: url(../img/ilustracion1.png);
     height: 700px;
@@ -45,6 +56,8 @@ html{
         margin-bottom: 350px;
     }
 }
+
+
 
 .home .howto{
     margin-left: 144px;
